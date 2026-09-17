@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Chotoo",
+  "description": "A heartfelt birthday countdown vault and celebration app for Chotoo with custom photo frames, wishes editor, and locked surprise until October 27.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
